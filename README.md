@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **samford12/samford12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 - 🧑‍💼 Data Scientist at Bank Ifis
 <!-- - 🌱 I’m currently learning GCP -->
