@@ -15,7 +15,8 @@ My name is Samuel Mesfin<div id="header" align="center">
 <br>
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="150"/>
   </div>
-Working as Data Scientist at Banca Ifis   <img src="https://www.bancaifis.it/app/uploads/2020/06/logo_banca-ifis@2x.png" width="50px"> </img> <br>
+Working as Data Scientist at Banca Ifis   <img src="https://www.bancaifis.it/app/uploads/2020/06/logo_banca-ifis@2x.png" width="50px"> </img> 
+<br>
 
 MSc Data Science and Economics at the University of Milan. 
 
