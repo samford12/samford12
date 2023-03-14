@@ -3,7 +3,6 @@
 
 **samford12/samford12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hi there 👋
 My name is Samuel Mesfin
 
 ![](https://visitor-badge.glitch.me/badge?page_id=samford12)
