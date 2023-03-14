@@ -12,9 +12,9 @@ My name is Samuel Mesfin<div id="header" align="center">
 [![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/samford12)](https://github.com/samford12)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:5starhips@gmail.com)](mailto:5starhips@gmail.com)
  <br> ![](https://visitor-badge.glitch.me/badge?page_id=samford12)
-</div>
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
-  
+<br>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="200"/>
+  </div>
 Working as Data Scientist at Banca Ifis   <img src="https://www.bancaifis.it/app/uploads/2020/06/logo_banca-ifis@2x.png" width="50px"> </img> <br>
 
 MSc Data Science and Economics at the University of Milan. 
