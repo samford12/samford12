@@ -8,6 +8,7 @@ My name is Samuel Mesfin<div id="header" align="center">
 </div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=samford12)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-mesfin/)](https://www.linkedin.com/in/samuel-mesfin/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Samuels_view)](https://twitter.com/Samuels_view)
 [![Website Badge](https://img.shields.io/badge/-Website-darkgreen?style=for-the-badge&labelColor=green&logo=chrome&logoColor=white&link=https://ierardiandrea.com/)](#https://samuelMesfin.com/#)
