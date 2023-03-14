@@ -3,12 +3,11 @@
 
 **samford12/samford12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My name is Samuel Mesfin
-
-![](https://visitor-badge.glitch.me/badge?page_id=samford12)
-<div id="header" align="center">
+My name is Samuel Mesfin<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+![](https://visitor-badge.glitch.me/badge?page_id=samford12)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-mesfin/)](https://www.linkedin.com/in/samuel-mesfin/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Samuels_view)](https://twitter.com/Samuels_view)
 [![Website Badge](https://img.shields.io/badge/-Website-darkgreen?style=for-the-badge&labelColor=green&logo=chrome&logoColor=white&link=https://ierardiandrea.com/)](#https://samuelMesfin.com/#)
