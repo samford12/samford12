@@ -14,6 +14,7 @@ My name is Samuel Mesfin<div id="header" align="center">
 [![Website Badge](https://img.shields.io/badge/-Website-darkgreen?style=for-the-badge&labelColor=green&logo=chrome&logoColor=white&link=https://ierardiandrea.com/)](#https://samuelMesfin.com/#)
 [![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/samford12)](https://github.com/samford12)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:5starhips@gmail.com)](mailto:5starhips@gmail.com)
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 Working as Data Scientist at Banca Ifis   <img src="https://www.bancaifis.it/app/uploads/2020/06/logo_banca-ifis@2x.png" width="50px"> </img> <br>
 
